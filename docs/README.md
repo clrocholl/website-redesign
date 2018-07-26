@@ -79,9 +79,9 @@ Functionality tests help verify whether the site meets the intended functional r
 | Homepage | Clicking the LinkedIn icon enlarges the image, rather than taking you to LinkedIn. |
 | Homepage | Clicking the sign up mail image opens the envelope image, rather than opening a mailto link. |
 
-### Automated Test Results
+### Automated Tests Results
 
-**_Table 4_**  _Automated Functionality Test_
+**_Table 4_**  _Automated Functionality Tests_
 
 | Test | Result |
 | ------ | ------ |
