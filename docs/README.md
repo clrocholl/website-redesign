@@ -17,7 +17,7 @@ This is a proposal for the responsive redesign of the current Florida Energy Sys
 
 The FESC was created by the Florida State government to collaborate with Florida’s distinguished state universities to share energy-related expertise. The consortium also assists in the development of efficient forms of energy generation, consumption, and distribution. In order to share information and communicate with the public, the FESC created a website. 
 
-Unfortunately, this website is difficult to navigate and does not comply with industry best practices for web design. The purpose of this redesign is to overhaul the FESC website to continue to attract readers and to ensure that it complies with best practices, accessibility standards, and mobile design principles.
+Unfortunately, this website is difficult to use and navigate and does not comply with industry best practices for web design. The purpose of this redesign is to overhaul the FESC website to continue to attract readers and to ensure that it complies with best practices, accessibility standards, and mobile design principles.
 
 # State of the Current Site
 
