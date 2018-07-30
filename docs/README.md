@@ -116,7 +116,7 @@ The following table lists the recommendations to improve the site’s device sup
 
 # Recommendations
 At a high level, the following recommendations are provided for a responsive redesign of the FESC website:
-* Keep users in mind and explore different Information Architecture (IA) strategies to improve the site maintenance and the metadata field description as well as to redesign the organization and labelling systems and the navigation system.
+* Keep users in mind and explore different Information Architecture (IA) strategies to improve the site maintenance and the metadata field description as well as to redesign the organization, labelling, and navigation systems.
 * Address accessibility issues to meet WCAG 2.0 guidelines to ensure all users can perceive, understand, interact, and use the website.
 * Fix performance issues to improve page load speed to meet mobile and industry average times and avoid user frustration.
 * Address functionality issues and fix all broken links as well as HTML and CSS validation issues.
