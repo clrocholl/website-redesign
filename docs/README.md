@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Florida Energy Systems Consortium
 
 ## Website Redesign Proposal
@@ -248,4 +247,3 @@ At a high level, the following recommendations are provided for a responsive red
 * Address functionality issues and fix all broken links as well as HTML and CSS validation issues.
 * Redesign the site’s page layouts to create modular elements that can increase ease of learning and use.
 * Implement and set viewport, responsive layouts, and breakpoints to adjust content for mobile, tablet, and desktop devices.
->>>>>>> 539a8be57940834367edbd78daa58a2e62a15c82
